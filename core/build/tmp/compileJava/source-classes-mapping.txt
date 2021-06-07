@@ -1,0 +1,141 @@
+com/mygdx/game/new_test/creatures/Hero.java
+ com.mygdx.game.new_test.creatures.Hero
+com/mygdx/game/ext/core/group/Group.java
+ com.mygdx.game.ext.core.group.Group
+com/mygdx/game/ext/core/group/PriorityGroup.java
+ com.mygdx.game.ext.core.group.PriorityGroup
+com/mygdx/game/new_test/environment/Static.java
+ com.mygdx.game.new_test.environment.Static
+com/mygdx/game/ext/core/data/Asset.java
+ com.mygdx.game.ext.core.data.Asset
+com/mygdx/game/ext/core/actor/Actor.java
+ com.mygdx.game.ext.core.actor.Actor
+com/mygdx/game/tests/test1/Main.java
+ com.mygdx.game.tests.test1.Main
+com/mygdx/game/new_test/Main.java
+ com.mygdx.game.new_test.Main
+com/mygdx/game/cur_test/Locations/StickmanWorld.java
+ com.mygdx.game.cur_test.Locations.StickmanWorld
+com/mygdx/game/ext/additional/CameraController.java
+ com.mygdx.game.ext.additional.CameraController
+com/mygdx/game/ext/core/drawing/view/ExtendCoordinateGrid.java
+ com.mygdx.game.ext.core.drawing.view.ExtendCoordinateGrid
+com/mygdx/game/ext/core/system/presets/ControlSystem.java
+ com.mygdx.game.ext.core.system.presets.ControlSystem
+com/mygdx/game/cur_test/Entities/MovingObject.java
+ com.mygdx.game.cur_test.Entities.MovingObject
+com/mygdx/game/cur_test/Entities/Enemy.java
+ com.mygdx.game.cur_test.Entities.Enemy
+com/mygdx/game/ext/core/components/presets/animation/AnimationData.java
+ com.mygdx.game.ext.core.components.presets.animation.AnimationData
+com/mygdx/game/ext/core/system/presets/collisionSystem/CollisionDetector.java
+ com.mygdx.game.ext.core.system.presets.collisionSystem.CollisionDetector
+com/mygdx/game/ext/core/drawing/view/CoordinateGrid.java
+ com.mygdx.game.ext.core.drawing.view.CoordinateGrid
+com/mygdx/game/new_test/SpriteManager.java
+ com.mygdx.game.new_test.SpriteManager
+com/mygdx/game/ext/core/drawing/ApplicationLoop.java
+ com.mygdx.game.ext.core.drawing.ApplicationLoop
+com/mygdx/game/new_test/environment/Gem.java
+ com.mygdx.game.new_test.environment.Gem
+com/mygdx/game/ext/core/actor/interfaces/Action.java
+ com.mygdx.game.ext.core.actor.interfaces.Action
+ com.mygdx.game.ext.core.actor.interfaces.Action$Arg1
+ com.mygdx.game.ext.core.actor.interfaces.Action$Arg2
+ com.mygdx.game.ext.core.actor.interfaces.Action$Arg3
+ com.mygdx.game.ext.core.actor.interfaces.Action$Arg4
+com/mygdx/game/cur_test/Environment/Grass.java
+ com.mygdx.game.cur_test.Environment.Grass
+com/mygdx/game/new_test/creatures/Npc.java
+ com.mygdx.game.new_test.creatures.Npc
+com/mygdx/game/ext/core/system/presets/DrawingSystem.java
+ com.mygdx.game.ext.core.system.presets.DrawingSystem
+com/mygdx/game/cur_test/Entities/Worker.java
+ com.mygdx.game.cur_test.Entities.Worker
+com/mygdx/game/new_test/worlds/Darkness.java
+ com.mygdx.game.new_test.worlds.Darkness
+com/mygdx/game/ext/core/scene/presets/DullScene.java
+ com.mygdx.game.ext.core.scene.presets.DullScene
+com/mygdx/game/ext/core/scene/Scene.java
+ com.mygdx.game.ext.core.scene.Scene
+ com.mygdx.game.ext.core.scene.Scene$1
+com/mygdx/game/cur_test/Environment/Platform.java
+ com.mygdx.game.cur_test.Environment.Platform
+com/mygdx/game/ext/core/system/presets/collisionSystem/BoundingBox.java
+ com.mygdx.game.ext.core.system.presets.collisionSystem.BoundingBox
+com/mygdx/game/cur_test/Entities/Hero.java
+ com.mygdx.game.cur_test.Entities.Hero
+com/mygdx/game/ext/core/drawing/view/Monitor.java
+ com.mygdx.game.ext.core.drawing.view.Monitor
+com/mygdx/game/ext/additional/SceneData.java
+ com.mygdx.game.ext.additional.SceneData
+com/mygdx/game/ext/core/system/System.java
+ com.mygdx.game.ext.core.system.System
+ com.mygdx.game.ext.core.system.System$Type
+com/mygdx/game/ext/core/components/presets/animation/AnimationComponent.java
+ com.mygdx.game.ext.core.components.presets.animation.AnimationComponent
+com/mygdx/game/ext/core/system/presets/PhysicsSystem.java
+ com.mygdx.game.ext.core.system.presets.PhysicsSystem
+com/mygdx/game/ext/core/actor/interfaces/Func.java
+ com.mygdx.game.ext.core.actor.interfaces.Func
+ com.mygdx.game.ext.core.actor.interfaces.Func$Arg1
+ com.mygdx.game.ext.core.actor.interfaces.Func$Arg2
+ com.mygdx.game.ext.core.actor.interfaces.Func$Arg3
+ com.mygdx.game.ext.core.actor.interfaces.Func$Arg4
+com/mygdx/game/ext/core/components/presets/ActionComponent.java
+ com.mygdx.game.ext.core.components.presets.ActionComponent
+com/mygdx/game/new_test/environment/Platform.java
+ com.mygdx.game.new_test.environment.Platform
+com/mygdx/game/ext/core/system/presets/AnimationSystem.java
+ com.mygdx.game.ext.core.system.presets.AnimationSystem
+com/mygdx/game/ext/core/system/presets/collisionSystem/CollisionManagmentSystem.java
+ com.mygdx.game.ext.core.system.presets.collisionSystem.CollisionManagmentSystem
+com/mygdx/game/ext/core/components/presets/CollisionComponent.java
+ com.mygdx.game.ext.core.components.presets.CollisionComponent
+com/mygdx/game/ext/core/actor/presets/DullActor.java
+ com.mygdx.game.ext.core.actor.presets.DullActor
+com/mygdx/game/ext/core/components/ComputeableHashMap.java
+ com.mygdx.game.ext.core.components.ComputeableHashMap
+com/mygdx/game/ext/core/system/presets/behaviour/SimpleBehaviourSystem.java
+ com.mygdx.game.ext.core.system.presets.behaviour.SimpleBehaviourSystem
+com/mygdx/game/ext/deprecated/ApplicationCycleSecond.java
+ com.mygdx.game.ext.deprecated.ApplicationCycleSecond
+com/mygdx/game/ext/core/system/presets/ActionSystem.java
+ com.mygdx.game.ext.core.system.presets.ActionSystem
+com/mygdx/game/ext/deprecated/StandartScene.java
+ com.mygdx.game.ext.deprecated.StandartScene
+com/mygdx/game/ext/core/components/presets/DrawingComponent.java
+ com.mygdx.game.ext.core.components.presets.DrawingComponent
+com/mygdx/game/ext/core/scene/presets/GameScene.java
+ com.mygdx.game.ext.core.scene.presets.GameScene
+com/mygdx/game/ext/core/components/Component.java
+ com.mygdx.game.ext.core.components.Component
+com/mygdx/game/cur_test/SpriteManager.java
+ com.mygdx.game.cur_test.SpriteManager
+com/mygdx/game/cur_test/Environment/EnvironmentObject.java
+ com.mygdx.game.cur_test.Environment.EnvironmentObject
+com/mygdx/game/ext/core/data/AssetLoadScene.java
+ com.mygdx.game.ext.core.data.AssetLoadScene
+com/mygdx/game/cur_test/Main.java
+ com.mygdx.game.cur_test.Main
+com/mygdx/game/new_test/creatures/Moveable.java
+ com.mygdx.game.new_test.creatures.Moveable
+com/mygdx/game/ext/core/system/presets/collisionSystem/CollisionType.java
+ com.mygdx.game.ext.core.system.presets.collisionSystem.CollisionType
+com/mygdx/game/new_test/environment/Ground.java
+ com.mygdx.game.new_test.environment.Ground
+com/mygdx/game/new_test/environment/Wind.java
+ com.mygdx.game.new_test.environment.Wind
+com/mygdx/game/ext/core/event/presets/PlaySound.java
+ com.mygdx.game.ext.core.event.presets.PlaySound
+com/mygdx/game/ext/core/event/Event.java
+ com.mygdx.game.ext.core.event.Event
+com/mygdx/game/new_test/Systems.java
+ com.mygdx.game.new_test.Systems
+com/mygdx/game/ext/core/components/presets/BasePhysicsComponent.java
+ com.mygdx.game.ext.core.components.presets.BasePhysicsComponent
+com/mygdx/game/ext/core/data/AssetLoader.java
+ com.mygdx.game.ext.core.data.AssetLoader
+ com.mygdx.game.ext.core.data.AssetLoader$Data
+com/mygdx/game/cur_test/Environment/Castle.java
+ com.mygdx.game.cur_test.Environment.Castle

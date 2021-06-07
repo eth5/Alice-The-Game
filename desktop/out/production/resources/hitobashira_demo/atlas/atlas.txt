@@ -1,0 +1,420 @@
+atlas-0.png
+size: 2003, 2003
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+alice2
+  rotate: false
+  xy: 1205, 1019
+  size: 411, 468
+  orig: 411, 468
+  offset: 0, 0
+  index: -1
+bush
+  rotate: false
+  xy: 1426, 660
+  size: 442, 357
+  orig: 442, 357
+  offset: 0, 0
+  index: -1
+cross
+  rotate: false
+  xy: 334, 1019
+  size: 260, 390
+  orig: 260, 390
+  offset: 0, 0
+  index: -1
+d1_1
+  rotate: false
+  xy: 1618, 1
+  size: 156, 150
+  orig: 156, 150
+  offset: 0, 0
+  index: -1
+d1_2
+  rotate: false
+  xy: 1454, 1
+  size: 162, 146
+  orig: 162, 146
+  offset: 0, 0
+  index: -1
+d1_3
+  rotate: false
+  xy: 1, 660
+  size: 834, 333
+  orig: 834, 333
+  offset: 0, 0
+  index: -1
+d1_6
+  rotate: false
+  xy: 469, 1
+  size: 154, 81
+  orig: 154, 81
+  offset: 0, 0
+  index: -1
+d1_7
+  rotate: false
+  xy: 1404, 159
+  size: 206, 180
+  orig: 206, 180
+  offset: 0, 0
+  index: -1
+d2_1
+  rotate: false
+  xy: 1776, 1
+  size: 195, 156
+  orig: 195, 156
+  offset: 0, 0
+  index: -1
+d2_2
+  rotate: false
+  xy: 1, 159
+  size: 224, 158
+  orig: 224, 158
+  offset: 0, 0
+  index: -1
+d2_3
+  rotate: false
+  xy: 625, 1
+  size: 143, 110
+  orig: 143, 110
+  offset: 0, 0
+  index: -1
+d2_4
+  rotate: false
+  xy: 1248, 1
+  size: 204, 139
+  orig: 204, 139
+  offset: 0, 0
+  index: -1
+d3_1
+  rotate: false
+  xy: 596, 1019
+  size: 607, 390
+  orig: 607, 390
+  offset: 0, 0
+  index: -1
+d3_2
+  rotate: false
+  xy: 1, 1
+  size: 168, 58
+  orig: 168, 58
+  offset: 0, 0
+  index: -1
+d3_3
+  rotate: false
+  xy: 733, 351
+  size: 534, 307
+  orig: 534, 307
+  offset: 0, 0
+  index: -1
+d3_4
+  rotate: false
+  xy: 770, 1
+  size: 476, 122
+  orig: 476, 122
+  offset: 0, 0
+  index: -1
+d3_5
+  rotate: false
+  xy: 171, 1
+  size: 296, 61
+  orig: 296, 61
+  offset: 0, 0
+  index: -1
+fake_heart
+  rotate: false
+  xy: 217, 351
+  size: 182, 251
+  orig: 182, 251
+  offset: 0, 0
+  index: -1
+gear
+  rotate: false
+  xy: 1074, 660
+  size: 350, 344
+  orig: 350, 344
+  offset: 0, 0
+  index: -1
+ghost
+  rotate: false
+  xy: 1, 351
+  size: 214, 206
+  orig: 214, 206
+  offset: 0, 0
+  index: -1
+girl
+  rotate: false
+  xy: 401, 351
+  size: 330, 289
+  orig: 330, 289
+  offset: 0, 0
+  index: -1
+grass
+  rotate: false
+  xy: 227, 159
+  size: 1175, 171
+  orig: 1175, 171
+  offset: 0, 0
+  index: -1
+heart
+  rotate: false
+  xy: 1612, 159
+  size: 180, 190
+  orig: 180, 190
+  offset: 0, 0
+  index: -1
+poet
+  rotate: false
+  xy: 1, 1019
+  size: 331, 363
+  orig: 331, 363
+  offset: 0, 0
+  index: -1
+stump
+  rotate: false
+  xy: 837, 660
+  size: 235, 338
+  orig: 235, 338
+  offset: 0, 0
+  index: -1
+tutorial
+  rotate: false
+  xy: 1, 1489
+  size: 962, 513
+  orig: 962, 513
+  offset: 0, 0
+  index: -1
+
+atlas-1.png
+size: 1994, 1994
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+alice1
+  rotate: false
+  xy: 1081, 1
+  size: 464, 540
+  orig: 464, 540
+  offset: 0, 0
+  index: -1
+alice_run/0
+  rotate: false
+  xy: 963, 543
+  size: 514, 649
+  orig: 514, 649
+  offset: 0, 0
+  index: -1
+alice_run/1
+  rotate: false
+  xy: 1479, 543
+  size: 514, 649
+  orig: 514, 649
+  offset: 0, 0
+  index: -1
+alice_run/2
+  rotate: false
+  xy: 1, 1194
+  size: 514, 649
+  orig: 514, 649
+  offset: 0, 0
+  index: -1
+alice_run/3
+  rotate: false
+  xy: 517, 1194
+  size: 514, 649
+  orig: 514, 649
+  offset: 0, 0
+  index: -1
+alice_run/4
+  rotate: false
+  xy: 1033, 1194
+  size: 514, 649
+  orig: 514, 649
+  offset: 0, 0
+  index: -1
+background
+  rotate: false
+  xy: 1, 543
+  size: 960, 540
+  orig: 960, 540
+  offset: 0, 0
+  index: -1
+d1_4
+  rotate: false
+  xy: 1, 1
+  size: 1078, 539
+  orig: 1078, 539
+  offset: 0, 0
+  index: -1
+
+atlas-2.png
+size: 2029, 2029
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+alice_fight/0
+  rotate: false
+  xy: 1, 1
+  size: 847, 681
+  orig: 847, 681
+  offset: 0, 0
+  index: -1
+alice_fight/1
+  rotate: false
+  xy: 850, 1
+  size: 847, 681
+  orig: 847, 681
+  offset: 0, 0
+  index: -1
+alice_fight/2
+  rotate: false
+  xy: 1, 684
+  size: 847, 681
+  orig: 847, 681
+  offset: 0, 0
+  index: -1
+alice_fight/3
+  rotate: false
+  xy: 850, 684
+  size: 847, 681
+  orig: 847, 681
+  offset: 0, 0
+  index: -1
+alice_run/5
+  rotate: false
+  xy: 1, 1367
+  size: 514, 649
+  orig: 514, 649
+  offset: 0, 0
+  index: -1
+alice_stand/0
+  rotate: false
+  xy: 517, 1367
+  size: 371, 661
+  orig: 371, 661
+  offset: 0, 0
+  index: -1
+alice_stand/1
+  rotate: false
+  xy: 890, 1367
+  size: 371, 661
+  orig: 371, 661
+  offset: 0, 0
+  index: -1
+alice_stand/2
+  rotate: false
+  xy: 1263, 1367
+  size: 371, 661
+  orig: 371, 661
+  offset: 0, 0
+  index: -1
+alice_stand/3
+  rotate: false
+  xy: 890, 1367
+  size: 371, 661
+  orig: 371, 661
+  offset: 0, 0
+  index: -1
+
+atlas-3.png
+size: 1930, 1930
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+alice_fight/4
+  rotate: false
+  xy: 1, 1
+  size: 847, 681
+  orig: 847, 681
+  offset: 0, 0
+  index: -1
+alice_fight/5
+  rotate: false
+  xy: 850, 1
+  size: 847, 681
+  orig: 847, 681
+  offset: 0, 0
+  index: -1
+alice_fight/6
+  rotate: false
+  xy: 1, 684
+  size: 847, 681
+  orig: 847, 681
+  offset: 0, 0
+  index: -1
+tree2
+  rotate: false
+  xy: 850, 684
+  size: 506, 713
+  orig: 506, 713
+  offset: 0, 0
+  index: -1
+vignetteRect
+  rotate: false
+  xy: 1358, 684
+  size: 571, 711
+  orig: 571, 711
+  offset: 0, 0
+  index: -1
+
+atlas-4.png
+size: 2026, 2026
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+d1_5
+  rotate: false
+  xy: 963, 1
+  size: 1062, 895
+  orig: 1062, 895
+  offset: 0, 0
+  index: -1
+gates
+  rotate: false
+  xy: 806, 898
+  size: 1213, 926
+  orig: 1213, 926
+  offset: 0, 0
+  index: -1
+haunted
+  rotate: false
+  xy: 1, 898
+  size: 803, 920
+  orig: 803, 920
+  offset: 0, 0
+  index: -1
+tree1
+  rotate: false
+  xy: 1, 1
+  size: 552, 736
+  orig: 552, 736
+  offset: 0, 0
+  index: -1
+tree3
+  rotate: false
+  xy: 555, 1
+  size: 406, 762
+  orig: 406, 762
+  offset: 0, 0
+  index: -1
+
+atlas-5.png
+size: 1934, 1934
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ending
+  rotate: false
+  xy: 1, 1
+  size: 1271, 1061
+  orig: 1271, 1061
+  offset: 0, 0
+  index: -1
+tower
+  rotate: false
+  xy: 1274, 1
+  size: 659, 1080
+  orig: 659, 1080
+  offset: 0, 0
+  index: -1
